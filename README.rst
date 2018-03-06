@@ -8,7 +8,7 @@ Disclaimer
 ----------
 The title alludes to multiple -omics analysis--but a careful browser of this repository would notice that the stuff in here applies mainly to the **PROTEOMIC** bits of the project, with transcriptomic bits nowhere to be seen.
 
-This is because the transcriptomics pipelines we used were... fairly standard (``kallisto``, ``sleuth``). Our proteomics stuff wasn't, therefore the scripts. Robert Frost's "The Road Not Taken" comes to mind here :p
+This is because the transcriptomics pipelines we used were... fairly standard (``kallisto``, ``sleuth``). Our proteomics stuff weren't, therefore the scripts. Robert Frost's "The Road Not Taken" comes to mind here :p
 
 Brief description of folder contents
 ------------------------------------

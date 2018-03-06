@@ -93,7 +93,7 @@ Start
        
        Based on the values in (7), carry out a GLM to model protein expression as a function of strain and temperature, or mix of both.
        
-   	TL;DR: again, only one gene in a dependent variable had a corrected p < 0.05.
+   	   TL;DR: again, only one gene in a dependent variable had a corrected p < 0.05.
 
 8. Stats across replicates
 
