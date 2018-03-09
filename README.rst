@@ -1,6 +1,6 @@
-===========================================================
-Multi-omics analysis of thermal stress response in Aiptasia
-===========================================================
+=============================================================
+Multi-omics analysis of thermal stress response in *Aiptasia*
+=============================================================
 
 Link to manuscript: (still under review)
 
@@ -14,7 +14,7 @@ Brief description of folder contents
 ------------------------------------
 Folders are ordered according to when it appears in the manuscript.
 
-1. ``remove_duplicate_AIPGENEs/`` explains how (and why) we excluded ~10% Aiptasia gene models from our analysis.
+1. ``remove_duplicate_AIPGENEs/`` explains how (and why) we excluded ~10% *Aiptasia* gene models from our analysis.
 
 2. ``proteome_analysis/`` is the folder that contains the giant Excel sheet that we used to carry out our proteome analysis.
 
@@ -25,3 +25,5 @@ Folders are ordered according to when it appears in the manuscript.
 5. ``compare_fc/`` contains scripts that led to plotting of Fig. 3 and Fig. S1.
 
 6. ``pick_representative_gene_models/``... picks representative gene models to avoid bias in the downstream functional enrichment analysis.
+
+7. ``rs_its2/`` is how we analysed *Symbiodinium* types in our Red Sea *Aiptasia*.
