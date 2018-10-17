@@ -2,7 +2,11 @@
 Multi-omics analysis of thermal stress response in *Aiptasia*
 =============================================================
 
-Link to manuscript: (still under review)
+Link to manuscript (Open Access in Proc. Royal Soc. B):
+
+- http://rspb.royalsocietypublishing.org/content/285/1877/20172654 (HTML)
+
+- http://rspb.royalsocietypublishing.org/content/285/1877/20172654.full.pdf (PDF)
 
 Disclaimer
 ----------
